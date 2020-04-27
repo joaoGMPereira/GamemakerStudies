@@ -1,0 +1,2 @@
+destinyRoom = roomRanking
+textButton = "Ranking"

@@ -1,0 +1,2 @@
+destinyRoom = roomStart
+textButton = "Voltar"
